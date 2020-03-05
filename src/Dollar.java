@@ -6,7 +6,7 @@ public class Dollar {
         this.amount = amount;
     }
 
-    void times(int multiplier){
-        amount = 5*2;
+    void times(int multiplier) {
+        amount *= multiplier;
     }
 }
