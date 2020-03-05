@@ -1,2 +1,5 @@
-public class Money {
+public class Money{
+
+    protected int amount;
+
 }
